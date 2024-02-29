@@ -1,0 +1,36 @@
+{
+    "name": "Unity",
+    "website": "https://www.trueusd.com/",
+    "description": "Peer to Peer Crypto Trading Marketplace",
+    "explorer": "https://etherscan.io/token/0x42b1050e6ba748d9acb999d1d14abbdf659456cd",
+    "type": "ERC20",
+    "symbol": "UNY",
+    "decimals": 2,
+    "status": "active",
+    "id": "0x42b1050e6ba748d9acb999d1d14abbdf659456cd",
+    "tags": [
+        "token"
+    ],
+    "links": [
+        {
+            "name": "opensea",
+            "url": "https://opensea.io/extras/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/unitymoney"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/unity_money"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/unity-money/"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/cryptounitymoney"
+        }
+    ]
+}
